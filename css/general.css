@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+h1{
+    font-size: 75px;
+    color: #3953a4;
+    font-family: 'Kanit', sans-serif;
+}
+.logo{
+    margin-left: 1530px;
+}
+.logo h5{
+    display: inline;
+    color: #3953a4;
+}
+.align-center-card{
+    text-align: center;
+}
+.padding-card{
+    padding: 70px 0px 70px 0px;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Kanit', sans-serif;
+}
+.font-size{
+    font-size: 30px;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+.ul{
+    list-style-type: unset;
+}
+.button{
+    border: 1px solid;
+    padding: 10px 0px 10px 0px;
+    text-decoration: none;
+    color: black;
+}
+.button:hover{
+    background-color: #ddd;
+}
+p{
+    font-size: large;
+}
