@@ -11,6 +11,14 @@ h1{
     display: inline;
     color: #3953a4;
 }
+.logo-for-phone{
+    text-align: center;
+    display: none;
+}
+.logo-for-phone h5{
+    display: inline;
+    color: #3953a4;
+}
 .align-center-card{
     text-align: center;
 }
@@ -42,4 +50,21 @@ h3{
 }
 p{
     font-size: large;
+}
+@media only screen and (min-width:300px) and (max-width:800px) {
+    h1{
+        font-size: 25px;
+    }
+    .logo{
+        display: none;
+    }
+    .logo-for-phone{
+        display: block;
+    }
+    .col-lg-4{
+        padding: 10px 80px 10px 80px;
+    }
+    .col-lg-3{
+        padding: 10px 80px 10px 80px;
+    }
 }
