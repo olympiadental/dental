@@ -51,6 +51,12 @@ h3{
 p{
     font-size: large;
 }
+.col-lg-3{
+    padding: 30px;
+}
+.col-lg-4{
+    padding: 50px;
+}
 @media only screen and (min-width:300px) and (max-width:800px) {
     h1{
         font-size: 25px;
