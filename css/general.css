@@ -57,6 +57,28 @@ p{
 .col-lg-4{
     padding: 50px;
 }
+@media only screen and (min-width:1200px) and (max-width:1900px) {
+    .logo{
+        display: none;
+    }
+}
+@media only screen and (min-width:500px) and (max-width:1199px) {
+    h1{
+        font-size: 45px;
+    }
+    .logo{
+        display: none;
+    }
+    h5{
+        font-size: 15px;
+    }
+    .padding-card{
+        padding: 40px 0px 40px 0px;
+    }
+    .col-lg-3{
+        padding: 0px;
+    }
+}
 @media only screen and (min-width:300px) and (max-width:800px) {
     h1{
         font-size: 25px;
