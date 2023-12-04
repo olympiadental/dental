@@ -4,21 +4,6 @@ h1{
     color: #3953a4;
     font-family: 'Kanit', sans-serif;
 }
-.logo{
-    margin-left: 1455px;
-}
-.logo h5{
-    display: inline;
-    color: #3953a4;
-}
-.logo-for-phone{
-    text-align: center;
-    display: none;
-}
-.logo-for-phone h5{
-    display: inline;
-    color: #3953a4;
-}
 .align-center-card{
     text-align: center;
 }
